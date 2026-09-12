@@ -1,0 +1,259 @@
+{
+  "source_css_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..600;1,400..500&family=Manrope:wght@400..800&family=Noto+Sans+Arabic:wght@400..700&display=swap",
+  "source_repository": "https://github.com/google/fonts",
+  "css": "fonts.css",
+  "fonts": [
+    {
+      "family": "Cormorant Garamond",
+      "style": "italic",
+      "weight": "400 500",
+      "subset": "cyrillic-ext",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtFmSq17w.woff2",
+      "filename": "cormorant-garamond-italic-cyrillic-ext-4ae4c5da.woff2",
+      "url": "/fonts/cormorant-garamond-italic-cyrillic-ext-4ae4c5da.woff2",
+      "bytes": 25184,
+      "sha256": "ae25de0507a445fd9e953e90432ae75b1ee2eccb48370a6ced4934551eb56fc3"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "italic",
+      "weight": "400 500",
+      "subset": "cyrillic",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtMmSq17w.woff2",
+      "filename": "cormorant-garamond-italic-cyrillic-954d6382.woff2",
+      "url": "/fonts/cormorant-garamond-italic-cyrillic-954d6382.woff2",
+      "bytes": 21300,
+      "sha256": "cb13c04533ee98c94e49a053b9f4d39bf616fd7ba6360d71aead92a78dc571f7"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "italic",
+      "weight": "400 500",
+      "subset": "vietnamese",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtHmSq17w.woff2",
+      "filename": "cormorant-garamond-italic-vietnamese-4c494e01.woff2",
+      "url": "/fonts/cormorant-garamond-italic-vietnamese-4c494e01.woff2",
+      "bytes": 11516,
+      "sha256": "b8ecb4ae898cd9ccae2f2d18fd364f6593bb67776060f9b5d833cec65d34d112"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "italic",
+      "weight": "400 500",
+      "subset": "latin-ext",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmSq17w.woff2",
+      "filename": "cormorant-garamond-italic-latin-ext-8fbaa36d.woff2",
+      "url": "/fonts/cormorant-garamond-italic-latin-ext-8fbaa36d.woff2",
+      "bytes": 34392,
+      "sha256": "cd5bf126b2c84ab41b254a6a9a1ffb5c326a0f9f82c22fb4704daa31c9aaa415"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "italic",
+      "weight": "400 500",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
+      "filename": "cormorant-garamond-italic-latin-291655ad.woff2",
+      "url": "/fonts/cormorant-garamond-italic-latin-291655ad.woff2",
+      "bytes": 39260,
+      "sha256": "6f2f5c3b1abc3d0bb035a927f66a90ca873f94fc31c4966c8d024142c2036e55"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "normal",
+      "weight": "400 600",
+      "subset": "cyrillic-ext",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtKgS4.woff2",
+      "filename": "cormorant-garamond-normal-cyrillic-ext-c4be8938.woff2",
+      "url": "/fonts/cormorant-garamond-normal-cyrillic-ext-c4be8938.woff2",
+      "bytes": 23416,
+      "sha256": "a4d7cf345b8091e1d2c8c5c8fa3bd0f9bb9d00bc8988185471db398ddb5ae4c4"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "normal",
+      "weight": "400 600",
+      "subset": "cyrillic",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtKgS4.woff2",
+      "filename": "cormorant-garamond-normal-cyrillic-53563903.woff2",
+      "url": "/fonts/cormorant-garamond-normal-cyrillic-53563903.woff2",
+      "bytes": 21168,
+      "sha256": "017fab69b4be8ffc08ca312823327989ade6dc3d948f0afa125e12ec2e5e7ca1"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "normal",
+      "weight": "400 600",
+      "subset": "vietnamese",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntKgS4.woff2",
+      "filename": "cormorant-garamond-normal-vietnamese-c7491161.woff2",
+      "url": "/fonts/cormorant-garamond-normal-vietnamese-c7491161.woff2",
+      "bytes": 11220,
+      "sha256": "6252e819a7665ae512c2d046308a9016ada63c06d0d8f96984c4b29f6c9e1bd2"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "normal",
+      "weight": "400 600",
+      "subset": "latin-ext",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tKgS4.woff2",
+      "filename": "cormorant-garamond-normal-latin-ext-a55f75e9.woff2",
+      "url": "/fonts/cormorant-garamond-normal-latin-ext-a55f75e9.woff2",
+      "bytes": 33736,
+      "sha256": "cfa9a397d86f66c5c51775a2500a712d5f632a04f0c5eca6930dfaf612d4566d"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "normal",
+      "weight": "400 600",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+      "filename": "cormorant-garamond-normal-latin-d9ec8210.woff2",
+      "url": "/fonts/cormorant-garamond-normal-latin-d9ec8210.woff2",
+      "bytes": 37640,
+      "sha256": "d80df8ff5aecd299a61549f9e29ab1ed0b9b05f4ea71d50fe978e07d5240b235"
+    },
+    {
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 800",
+      "subset": "cyrillic-ext",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2",
+      "filename": "manrope-normal-cyrillic-ext-842459da.woff2",
+      "url": "/fonts/manrope-normal-cyrillic-ext-842459da.woff2",
+      "bytes": 2552,
+      "sha256": "de37de877dc17e4577341fa68bb5cb526b53d54cb29721e674208546a3c7849d"
+    },
+    {
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 800",
+      "subset": "cyrillic",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2",
+      "filename": "manrope-normal-cyrillic-9b2d0271.woff2",
+      "url": "/fonts/manrope-normal-cyrillic-9b2d0271.woff2",
+      "bytes": 14500,
+      "sha256": "c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914"
+    },
+    {
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 800",
+      "subset": "greek",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2",
+      "filename": "manrope-normal-greek-ed7393f4.woff2",
+      "url": "/fonts/manrope-normal-greek-ed7393f4.woff2",
+      "bytes": 9444,
+      "sha256": "2fb2e8cbfd52ae46179a8b6024eb162f1f9c6de3d22d6e3a30d8f395de7220be"
+    },
+    {
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 800",
+      "subset": "vietnamese",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2",
+      "filename": "manrope-normal-vietnamese-1f3ea86e.woff2",
+      "url": "/fonts/manrope-normal-vietnamese-1f3ea86e.woff2",
+      "bytes": 8520,
+      "sha256": "6bbb044ab420e07edb0a3042d2eb314b85e83a0182e945a15ab3b9092668dfd5"
+    },
+    {
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 800",
+      "subset": "latin-ext",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2",
+      "filename": "manrope-normal-latin-ext-ee755089.woff2",
+      "url": "/fonts/manrope-normal-latin-ext-ee755089.woff2",
+      "bytes": 15120,
+      "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb"
+    },
+    {
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 800",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "filename": "manrope-normal-latin-4872f2a6.woff2",
+      "url": "/fonts/manrope-normal-latin-4872f2a6.woff2",
+      "bytes": 24836,
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972"
+    },
+    {
+      "family": "Noto Sans Arabic",
+      "style": "normal",
+      "weight": "400 700",
+      "subset": "arabic",
+      "source_url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpCtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlj4wv4r4xA.woff2",
+      "filename": "noto-sans-arabic-normal-arabic-21e1b731.woff2",
+      "url": "/fonts/noto-sans-arabic-normal-arabic-21e1b731.woff2",
+      "bytes": 165960,
+      "sha256": "ce85091f020920b65762b387b194ef59457ea5b25b760f2dcc35240a94bb8669"
+    },
+    {
+      "family": "Noto Sans Arabic",
+      "style": "normal",
+      "weight": "400 700",
+      "subset": "math",
+      "source_url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpCtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlj5Jv4r4xA.woff2",
+      "filename": "noto-sans-arabic-normal-math-6691e6c6.woff2",
+      "url": "/fonts/noto-sans-arabic-normal-math-6691e6c6.woff2",
+      "bytes": 22716,
+      "sha256": "2c7bffd56133bb333f6f23d240ba72ee767aa3e7de67cb71fb83bbb3595ded2b"
+    },
+    {
+      "family": "Noto Sans Arabic",
+      "style": "normal",
+      "weight": "400 700",
+      "subset": "symbols",
+      "source_url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpCtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlj5bv4r4xA.woff2",
+      "filename": "noto-sans-arabic-normal-symbols-8aa33bb8.woff2",
+      "url": "/fonts/noto-sans-arabic-normal-symbols-8aa33bb8.woff2",
+      "bytes": 14584,
+      "sha256": "090786c8626fb67f5c50809079ed7fe42eb68b95d1afccffeb86943ec10254a2"
+    },
+    {
+      "family": "Noto Sans Arabic",
+      "style": "normal",
+      "weight": "400 700",
+      "subset": "latin-ext",
+      "source_url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpCtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlj47v4r4xA.woff2",
+      "filename": "noto-sans-arabic-normal-latin-ext-cb9e4142.woff2",
+      "url": "/fonts/noto-sans-arabic-normal-latin-ext-cb9e4142.woff2",
+      "bytes": 16816,
+      "sha256": "27fe6458d54bcf13a2fe92228dd932ef3de9439267ca214e5c9f6bb02659e614"
+    },
+    {
+      "family": "Noto Sans Arabic",
+      "style": "normal",
+      "weight": "400 700",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpCtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlj41v4o.woff2",
+      "filename": "noto-sans-arabic-normal-latin-45e8443c.woff2",
+      "url": "/fonts/noto-sans-arabic-normal-latin-45e8443c.woff2",
+      "bytes": 31416,
+      "sha256": "fed070abc960c5f214fcb02b7b178cdab751ef7facd79a899f571bc21d38b8f8"
+    }
+  ],
+  "licenses": [
+    {
+      "family": "Cormorant Garamond",
+      "license": "SIL Open Font License 1.1",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt",
+      "file": "LICENSE-cormorantgaramond.txt"
+    },
+    {
+      "family": "Manrope",
+      "license": "SIL Open Font License 1.1",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "file": "LICENSE-manrope.txt"
+    },
+    {
+      "family": "Noto Sans Arabic",
+      "license": "SIL Open Font License 1.1",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansarabic/OFL.txt",
+      "file": "LICENSE-notosansarabic.txt"
+    }
+  ],
+  "total_font_bytes": 585296
+}

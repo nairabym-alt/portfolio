@@ -1,0 +1,10 @@
+# Canonical dist/ is intentionally tracked, including original-quality media.
+/_site/
+/.build-reports/
+/out/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
